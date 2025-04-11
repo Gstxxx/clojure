@@ -86,3 +86,8 @@ rps-game/
     - Backend retorna resultado
     - Frontend atualiza a interface
 
+# How to run
+
+Executar o backend com `lein run` no diretório raiz
+Compilar o frontend com `lein cljsbuild once`
+Abrir o arquivo `index.html` no navegador
