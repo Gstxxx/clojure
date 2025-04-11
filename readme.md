@@ -2,6 +2,8 @@
 
 vou desenvolver o jogo pedra, papel e tesoura usando clj pra aprender a lang.
 
+react no clojure é poggers
+
 # Definição
 
 - Jogadas (Moves)
@@ -91,3 +93,4 @@ rps-game/
 Executar o backend com `lein run` no diretório raiz
 Compilar o frontend com `lein cljsbuild once`
 Abrir o arquivo `index.html` no navegador
+
